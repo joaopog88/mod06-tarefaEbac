@@ -1,0 +1,4 @@
+
+tarefa 1,
+Programação Orientada a objetos: É uma forma mais "organizada" de preparar cada projeto, uma vez que consigo focar somente em uma classe(ou problema) por vez, ajuda no desenvolvimento.
+Programação Procedural: por estarem todas as classes a serem trabalhadas na mesma tela, acaba poluindo e ficando um pouco confuso para trabalhar.

@@ -1,0 +1,41 @@
+****** CONCEITOS BÁSICOS E LÓGICA DE PROGRAMAÇÃO ******
+
+AULA 1, PROGRAMAÇÃO PROCEDURAL E PROGRAMAÇÃO ORIENTADA A OBJETOS
+	-> Atualmente, a programação orientada a objetos é o que mais o mercado vem procurando. Vamos focar nela.
+
+AULA 2, EXEMPLOS DE PROGRAMAÇÃO PROCEDURAL
+	-> Código estruturado e não legal de visualizar, bem complexo.
+	-> Aqui você precisa seguir um passo a passo: começo, meio e fim.
+
+AULA 3, EXEMPLOS DE PROGRAMAÇÃO ORIENTADA A OBJETOS
+	-> Aqui você pode iniciar de qlaquer passo.
+	-> tem várias classes: Ex, programa para vender, eu tenho uma classe de vendedor, produtos, clientes e etc. Posso escolher em qual vou trabalhar.
+
+AULA 4, O QUE É LÓGICA DE PROGRAMAÇÃO?
+	-> Lógica de programação é a organização de uma sequência de instruções voltadas á resolução de problemas, que ajuda na criação de um software ou aplicação.
+	-> Como construir um algorítmo?
+		-> Primeiro, conseguir ter uma compreensão do problema para conseguir desenvolver.
+		-> Identificar entrada, processamento e saída das informações
+
+
+
+
+
+tarefa 1,
+Programação Orientada a objetos: É uma forma mais "organizada" de preparar cada projeto, uma vez que consigo focar somente em uma classe(ou problema) por vez, ajuda no desenvolvimento.
+Programação Procedural: por estarem todas as classes a serem trabalhadas na mesma tela, acaba poluindo e ficando um pouco confuso para trabalhar.
+
+tarefa 2, Acordar
+
+1- Alarme aciona no horário determinado.
+	- levo o braço até o alarme
+	- desligo o alarme
+2- Abro os olhos
+	- fecho os olhos
+	- abro os olhos novamente
+	- mantenho os olhos abertos
+3- Levanto o tronco da cama
+	- coloco as pernas para fora da cama
+	- coloco os pés no chão
+	- fico de pé
+	- faço um movimento de espreguiçar 
